@@ -6,7 +6,7 @@ Prazer, sou a Ket! Vem conhecer um pouquinho sobre mim!
 
 \## Contatos
 
-| \[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-7D5B8C?style=for-the-badge\\\&logo=linkedin\\\&logoColor=white)](https://www.linkedin.com/in/kethilydiniz/) | \[!\[Instagram](https://img.shields.io/badge/-Instagram-%237D5B8C?style=for-the-badge\\\&logo=instagram\\\&logoColor=white)](https://www.instagram.com/kethilydiniz/) | \[!\[GitHub](https://img.shields.io/badge/GitHub-7D5B8C?style=for-the-badge\\\&logo=github\\\&logoColor=white)](https://github.com/p1x3t) | \[!\[Gmail](https://img.shields.io/badge/Gmail-7D5B8C?style=for-the-badge\\\&logo=gmail\\\&logoColor=white)](mailto:SEUGMAIL) |
+| \[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-7D5B8C?style=for-the-badge\\\&logo=linkedin\\\&logoColor=white)](https://www.linkedin.com/in/kethilydiniz/) | \[!\[Instagram](https://img.shields.io/badge/-Instagram-%237D5B8C?style=for-the-badge\\\&logo=instagram\\\&logoColor=white)](https://www.instagram.com/kethilydiniz/) | \[!\[GitHub](https://img.shields.io/badge/GitHub-7D5B8C?style=for-the-badge\\\&logo=github\\\&logoColor=white)](https://github.com/p1x3t) | \[!\[Gmail](https://img.shields.io/badge/Gmail-7D5B8C?style=for-the-badge\\\&logo=gmail\\\&logoColor=white)](mailto:kethilydiniz@gmail.com) |
 
 | :---: | :---: | :---: | :---: |
 
